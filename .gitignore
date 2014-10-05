@@ -6,5 +6,8 @@ book.html
 .settings
 
 .DS_Store
+book.fo
+book.pdf
+book.xml
 
 .idea
